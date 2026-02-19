@@ -88,7 +88,7 @@ nitin = {
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 <div align="center">
 
@@ -101,7 +101,7 @@ nitin = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nitintewari&theme=tokyonight&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 
