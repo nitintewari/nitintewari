@@ -30,8 +30,8 @@ nitin = {
     "targeting"  : ["Data Engineer", "Data Scientist", "ML / AI Engineer", "Data Analyst"],
     "focus"      : ["Real-Time ETL Pipelines", "RAG / LLM Apps", "ML Forecasting", "NLP"],
     "tools"      : ["Python", "Kafka", "Spark", "Databricks", "AWS", "LangChain", "SQL"],
-    "available"  : "Full-time roles from May 2026 📅",
-    "fun_fact"   : "Built a real-time Kafka pipeline streaming 10K+ events/hour on AWS EC2 🚀"
+    "available"  : "Full-time roles from May 2026 📅"
+    
 }
 ```
 
