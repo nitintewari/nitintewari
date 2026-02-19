@@ -26,7 +26,7 @@
 ```python
 nitin = {
     "role"       : "MS Data Science @ Indiana University Bloomington (2024–2026)",
-    "experience" : "Data Engineer @ PwC (Sep 2022 – Sep 2023) | 1.5 yrs industry experience",
+    "experience" : "Data Scientist @ PwC (Sep 2022 – Sep 2023) | 1.5 yrs industry experience",
     "targeting"  : ["Data Engineer", "Data Scientist", "ML / AI Engineer", "Data Analyst"],
     "focus"      : ["Real-Time ETL Pipelines", "RAG / LLM Apps", "ML Forecasting", "NLP"],
     "tools"      : ["Python", "Kafka", "Spark", "Databricks", "AWS", "LangChain", "SQL"],
@@ -116,7 +116,7 @@ nitin = {
 ## 💼 Experience Highlights
 
 ```
-📍 PwC — Data Engineer / Scientist / Analyst (Sep 2022 – Sep 2023)
+📍 PwC — Scientist (Sep 2022 – Sep 2023)
    ├── Owned production ETL pipelines (Python + SQL + Databricks)
    │     ingesting ERP, SAP & eCommerce data at scale
    ├── Built hybrid ALS + Apache Spark recommendation system
