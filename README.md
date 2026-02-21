@@ -26,12 +26,11 @@
 ```python
 nitin = {
     "role"       : "MS Data Science @ Indiana University Bloomington (2024–2026)",
-    "experience" : "Data Scientist @ PwC (Sep 2022 – Sep 2023) | 1.5 yrs industry experience",
+    "experience" : "Data Engineer @ PwC (Sep 2022 – Sep 2023) | 1.5 yrs industry experience",
     "targeting"  : ["Data Engineer", "Data Scientist", "ML / AI Engineer", "Data Analyst"],
     "focus"      : ["Real-Time ETL Pipelines", "RAG / LLM Apps", "ML Forecasting", "NLP"],
     "tools"      : ["Python", "Kafka", "Spark", "Databricks", "AWS", "LangChain", "SQL"],
-    "available"  : "Full-time roles from May 2026 📅"
-    
+    "available"  : "Full-time roles from May 2026 📅",
 }
 ```
 
@@ -41,12 +40,13 @@ nitin = {
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| ⚡ [**Real-Time Data Pipeline**](https://github.com/nitintewari/realtime-data-pipeline) | End-to-end streaming ETL: 10K+ events/hour via Kafka on AWS EC2, auto schema discovery with AWS Glue, 30% query efficiency boost | `Kafka` `AWS EC2` `S3` `Glue` `Python` `SQL` |
-| 🩺 [**MediBot**](https://github.com/nitintewari/medibot) | RAG medical chatbot with **spaCy NER** for symptom extraction, severity scoring & negation detection, 40% faster retrieval | `LangChain` `FAISS` `Mistral` `spaCy` `Streamlit` |
-| 🛒 [**Customer Segmentation**](https://github.com/nitintewari/customer-segmentation) | KMeans + DBSCAN on 10K+ records, 5 distinct segments, 60% dimensionality reduction via PCA | `Scikit-learn` `PCA` `KMeans` `Seaborn` |
-| 📊 [**Marketing Campaign Analysis**](https://github.com/nitintewari/marketing-campaign-analysis) | A/B testing simulation uncovering 12% conversion lift from personalized email campaigns | `BigQuery` `Python` `Tableau` |
+| # | Project | Description | Stack |
+|---|---|---|---|
+| ⚡ | [**Real-Time Stock Market Pipeline**](https://github.com/nitintewari/stock-market-kafka-pipeline) | End-to-end streaming ETL: 10K+ events/hour via Kafka on AWS EC2 + real-time anomaly detection (Z-Score + ROC), 30% query efficiency boost via AWS Glue | `Kafka` `AWS EC2` `S3` `Glue` `Athena` `Python` |
+| 🩺 | [**MediBot**](https://github.com/nitintewari/medibot) | RAG medical chatbot with spaCy NER for symptom extraction, severity scoring & negation detection, 40% faster retrieval | `LangChain` `FAISS` `Mistral` `spaCy` `Streamlit` |
+| 🎬 | [**CineMatch — Movie Recommender**](https://github.com/nitintewari/movie-recommender-system) | Hybrid content-based recommender with TF-IDF + popularity weighting, live TMDB posters, genre filter & similarity % match | `Scikit-learn` `TF-IDF` `Streamlit` `TMDB API` |
+| 🛒 | [**Customer Segmentation**](https://github.com/nitintewari/customer-segmentation) | RFM feature engineering + KMeans/DBSCAN on 10K+ records, 60% PCA reduction, interactive Plotly dashboard | `Scikit-learn` `PCA` `KMeans` `Plotly` |
+| 🏥 | [**Student Management System**](https://github.com/nitintewari/hospital-database-management) | Full-stack database management system with CRUD operations, role-based access & reporting | `Python` `SQL` `Database` |
 
 </div>
 
@@ -116,7 +116,7 @@ nitin = {
 ## 💼 Experience Highlights
 
 ```
-📍 PwC — Scientist (Sep 2022 – Sep 2023)
+📍 PwC — Data Engineer / Scientist / Analyst (Sep 2022 – Sep 2023)
    ├── Owned production ETL pipelines (Python + SQL + Databricks)
    │     ingesting ERP, SAP & eCommerce data at scale
    ├── Built hybrid ALS + Apache Spark recommendation system
