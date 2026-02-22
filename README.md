@@ -46,7 +46,7 @@ nitin = {
 | 🩺 | [**MediBot**](https://github.com/nitintewari/medibot) | RAG medical chatbot with spaCy NER for symptom extraction, severity scoring & negation detection, 40% faster retrieval | `LangChain` `FAISS` `Mistral` `spaCy` `Streamlit` |
 | 🎬 | [**CineMatch — Movie Recommender**](https://github.com/nitintewari/movie-recommender-system) | Hybrid content-based recommender with TF-IDF + popularity weighting, live TMDB posters, genre filter & similarity % match | `Scikit-learn` `TF-IDF` `Streamlit` `TMDB API` |
 | 🛒 | [**Customer Segmentation**](https://github.com/nitintewari/customer-segmentation) | RFM feature engineering + KMeans/DBSCAN on 10K+ records, 60% PCA reduction, interactive Plotly dashboard | `Scikit-learn` `PCA` `KMeans` `Plotly` |
-| 🏥 | [**Student Management System**](https://github.com/nitintewari/hospital-database-management) | Full-stack database management system with CRUD operations, role-based access & reporting | `Python` `SQL` `Database` |
+| 🏥 | [**Student Management System**](https://github.com/prathamdedhiya17/studentManagementSystem) | Full-stack database management system with CRUD operations, role-based access & reporting | `Python` `SQL` `Database` |
 
 </div>
 
