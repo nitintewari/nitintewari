@@ -116,7 +116,7 @@ nitin = {
 ## 💼 Experience Highlights
 
 ```
-📍 PwC — Data Engineer / Scientist / Analyst (Sep 2022 – Sep 2023)
+📍 PwC — Data Scientist (Sep 2022 – Sep 2023)
    ├── Owned production ETL pipelines (Python + SQL + Databricks)
    │     ingesting ERP, SAP & eCommerce data at scale
    ├── Built hybrid ALS + Apache Spark recommendation system
