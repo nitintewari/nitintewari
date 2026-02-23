@@ -116,7 +116,7 @@ nitin = {
 ## 💼 Experience Highlights
 
 ```
-📍 PwC — Data Scientist (Sep 2022 – Sep 2023)
+📍 PwC — Associate Data Scientist 
    ├── Owned production ETL pipelines (Python + SQL + Databricks)
    │     ingesting ERP, SAP & eCommerce data at scale
    ├── Built hybrid ALS + Apache Spark recommendation system
@@ -130,7 +130,7 @@ nitin = {
    ├── Implemented data quality checks & monitoring across core datasets
    └── Leveraged GitHub Copilot to accelerate SQL & transformation logic
 
-📍 PwC — Associate Intern (Mar 2022 – Aug 2022)
+📍 PwC — Associate Intern 
    ├── EDA, data cleaning & transformation on large operational datasets
    ├── Data validation & governance across ERP & Snowflake systems
    │     → 20% reduction in downstream data errors
