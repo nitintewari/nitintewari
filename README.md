@@ -43,7 +43,7 @@ nitin = {
 | # | Project | Description | Stack |
 |---|---|---|---|
 | ⚡ | [**Real-Time Stock Market Pipeline**](https://github.com/nitintewari/stock-market-kafka-pipeline) | End-to-end streaming ETL: 10K+ events/hour via Kafka on AWS EC2 + real-time anomaly detection (Z-Score + ROC), 30% query efficiency boost via AWS Glue | `Kafka` `AWS EC2` `S3` `Glue` `Athena` `Python` |
-| 🏥 | [** Insurance Analytics**](https://github.com/nitintewari/insurance-analytics) | End-to-end insurance ops pipeline — member eligibility, agent commissions, payment collection & churn analysis on 59K rows. BigQuery + dbt (41 passing tests) + 3-page Power BI dashboard | `BigQuery` `dbt` `Power BI` `Python` `SQL` |
+| 🏥 | [**Insurance Analytics**](https://github.com/nitintewari/insurance-analytics) | End-to-end insurance ops pipeline — member eligibility, agent commissions, payment collection & churn analysis on 59K rows. BigQuery + dbt (41 passing tests) + 3-page Power BI dashboard | `BigQuery` `dbt` `Power BI` `Python` `SQL` |
 | 🩺 | [**MediBot**](https://github.com/nitintewari/medibot) | RAG medical chatbot with spaCy NER for symptom extraction, severity scoring & negation detection, 40% faster retrieval | `LangChain` `FAISS` `Mistral` `spaCy` `Streamlit` |
 | 🎬 | [**CineMatch — Movie Recommender**](https://github.com/nitintewari/movie-recommender-system) | Hybrid content-based recommender with TF-IDF + popularity weighting, live TMDB posters, genre filter & similarity % match | `Scikit-learn` `TF-IDF` `Streamlit` `TMDB API` |
 | 🏥 | [**Student Management System**](https://github.com/prathamdedhiya17/studentManagementSystem) | Full-stack database management system with CRUD operations, role-based access & reporting | `Python` `SQL` `Database` |
