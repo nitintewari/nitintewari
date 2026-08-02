@@ -37,15 +37,15 @@ nitin = {
 ---
 
 ## 🚀 Featured Projects
-
 <div align="center">
 
 | # | Project | Description | Stack |
 |---|---|---|---|
 | ⚡ | [**Real-Time Stock Market Pipeline**](https://github.com/nitintewari/stock-market-kafka-pipeline) | End-to-end streaming ETL: 10K+ events/hour via Kafka on AWS EC2 + real-time anomaly detection (Z-Score + ROC), 30% query efficiency boost via AWS Glue | `Kafka` `AWS EC2` `S3` `Glue` `Athena` `Python` |
-| 🛍️ | [**Customer Shopping Trends Analysis**](https://github.com/nitintewari/customer-trends-analysis) | End-to-end retail analytics on 3,900+ transactions — SQL business questions (revenue segmentation, product rankings, loyalty tiers), Python data cleaning & EDA, and an interactive Power BI dashboard with KPIs, slicers & category/age breakdowns | `SQL` `PostgreSQL` `Python` `pandas` `Power BI` |
+| 👥 | [**People Analytics Platform**](https://github.com/nitintewari/people-analytics-platform) | End-to-end HR analytics pipeline — 3 HR system APIs (UKG, Greenhouse, ServiceNow) integrated via REST, 99.5% identity validation, XGBoost attrition model (ROC-AUC 0.889), cross-system anomaly detection flagging 38% attrition in News & Content, Power BI dashboard | `Python` `SQL` `MySQL` `XGBoost` `SHAP` `Flask` `Power BI` |
 | 🏥 | [**Insurance Analytics**](https://github.com/nitintewari/insurance-analytics) | End-to-end insurance ops pipeline — member eligibility, agent commissions, payment collection & churn analysis on 59K rows. BigQuery + dbt (41 passing tests) + 3-page Power BI dashboard | `BigQuery` `dbt` `Power BI` `Python` `SQL` |
 | 🩺 | [**MediBot**](https://github.com/nitintewari/medibot) | RAG medical chatbot with spaCy NER for symptom extraction, severity scoring & negation detection, 40% faster retrieval | `LangChain` `FAISS` `Mistral` `spaCy` `Streamlit` |
+| 🛍️ | [**Customer Shopping Trends Analysis**](https://github.com/nitintewari/customer-trends-analysis) | End-to-end retail analytics on 3,900+ transactions — SQL business questions (revenue segmentation, product rankings, loyalty tiers), Python data cleaning & EDA, and an interactive Power BI dashboard with KPIs, slicers & category/age breakdowns | `SQL` `PostgreSQL` `Python` `pandas` `Power BI` |
 | 🎬 | [**CineMatch — Movie Recommender**](https://github.com/nitintewari/movie-recommender-system) | Hybrid content-based recommender with TF-IDF + popularity weighting, live TMDB posters, genre filter & similarity % match | `Scikit-learn` `TF-IDF` `Streamlit` `TMDB API` |
 | 🏥 | [**Student Management System**](https://github.com/prathamdedhiya17/studentManagementSystem) | Full-stack database management system with CRUD operations, role-based access & reporting | `Python` `SQL` `Database` |
 | 🛒 | [**Customer Segmentation**](https://github.com/nitintewari/customer-segmentation) | RFM feature engineering + KMeans/DBSCAN on 10K+ records, 60% PCA reduction, interactive Plotly dashboard | `Scikit-learn` `PCA` `KMeans` `Plotly` |
